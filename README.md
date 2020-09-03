@@ -1,0 +1,1 @@
+# power_func
